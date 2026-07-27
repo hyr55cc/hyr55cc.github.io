@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.basmah.app",
+      "sha256_cert_fingerprints": [
+        "A7:76:19:94:1D:1E:E5:E9:B3:5F:39:42:EC:83:DB:FC:A0:21:9A:A4:71:61:36:31:47:7B:08:E4:1C:CF:94:47",
+        "0D:42:86:4A:64:39:32:CD:1C:89:57:AF:B3:A4:16:C0:42:CA:54:D3:25:34:F4:30:F1:AD:18:BC:7F:F5:6B:5C"
+      ]
+    }
+  }
+]
